@@ -22,6 +22,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <dlfcn.h>
+#include <errno.h>
 
 #include "options.h"
 #include "util.h"
